@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/cathode-relithiation-concept-explainer/
 
+Repository: https://github.com/mizcausevic-dev/cathode-relithiation-concept-explainer
+
 ## What this is
 
 An interactive anatomy plate for Cathode Relithiation Concept. Play, scrub, or jump the five stages. The same frame always draws the same picture.
